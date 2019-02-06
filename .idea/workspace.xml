@@ -1,7 +1,561 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7074b2d-181d-439f-a07b-fd6d5c916608" name="Default" comment="" />
+    <list default="true" id="d7074b2d-181d-439f-a07b-fd6d5c916608" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Cold Sun.sketch" afterPath="$PROJECT_DIR$/Cold Sun.sketch" />
+      <change beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home.php" afterPath="$PROJECT_DIR$/auth/admin_home.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/c3-master/c3.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/c3-master/c3.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist-init.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist-init.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist-init.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist-init.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-js/dist/chartist.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/.gitignore" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/Gruntfile.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/Gruntfile.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/LICENSE" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/LICENSE" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/src/css/chartist-plugin-tooltip.css" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/src/css/chartist-plugin-tooltip.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/src/scripts/chartist-plugin-tooltip.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/src/scripts/chartist-plugin-tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/clean.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/clean.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/copy.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/copy.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/jasmine.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/jasmine.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/jshint.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/jshint.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/sass.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/sass.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/uglify.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/uglify.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/umd.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/tasks/umd.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/.jshintrc" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/.jshintrc" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/runner.html" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/runner.html" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/spec/spec-tooltip.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/chartist-plugin-tooltip-master/test/spec/spec-tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/LICENSE" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.min-v4.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.min-v4.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/d3/d3.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/gmaps.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/gmaps.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/gmaps.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/gmaps.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/jquery.gmaps.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/jquery.gmaps.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.controls.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.controls.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.core.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.core.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.events.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.events.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.geofences.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.geofences.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.geometry.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.geometry.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.layers.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.layers.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.map_types.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.map_types.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.markers.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.markers.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.native_extensions.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.native_extensions.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.overlays.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.overlays.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.routes.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.routes.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.static.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.static.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.streetview.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.streetview.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.styles.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.styles.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.utils.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/gmaps/lib/gmaps.utils.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/jquery/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/sticky-kit-master/dist/sticky-kit.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/sticky-kit-master/dist/sticky-kit.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js" afterPath="$PROJECT_DIR$/auth/admin_home/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/admin_footer.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/admin_footer.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/admin_header.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/admin_header.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/css/animate.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/css/animate.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/css/spinners.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/css/spinners.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/index.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/index.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/js/backend.js" afterPath="$PROJECT_DIR$/auth/admin_home/lite/js/backend.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/js/custom.js" afterPath="$PROJECT_DIR$/auth/admin_home/lite/js/custom.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/js/dashboard1.js" afterPath="$PROJECT_DIR$/auth/admin_home/lite/js/dashboard1.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/rd.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/rd.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/app.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/app.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/colors/blue.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/colors/blue.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/grid.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/grid.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.bower.json" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.gitignore" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.npmignore" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/.npmignore" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/HELP-US-OUT.txt" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/css/font-awesome.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/font-awesome/old/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-arrows-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-arrows-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-basic-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-basic-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-basic-elaboration-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-basic-elaboration-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-ecommerce-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-ecommerce-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-music-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-music-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-software-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-software-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-weather-10.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/fonts/linea-weather-10.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/linea.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/linea.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/linea.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/linea-icons/linea.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/material-design-iconic-font/css/material-design-iconic-font.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/material-design-iconic-font/css/material-design-iconic-font.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/simple-line-icons/css/simple-line-icons.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/simple-line-icons/css/simple-line-icons.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/fonts/themify.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/fonts/themify.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/ie7/ie7.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/ie7/ie7.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/ie7/ie7.js" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/ie7/ie7.js" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/themify-icons.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/themify-icons.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/themify-icons.less" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/themify-icons/themify-icons.less" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-core.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-core.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-wind.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-wind.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-wind.min.css" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/css/weather-icons-wind.min.css" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/fonts/weathericons-regular-webfont.svg" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/icons/weather-icons/fonts/weathericons-regular-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/material.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/material.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/pages.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/pages.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/responsive.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/responsive.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/sidebar.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/sidebar.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/style.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/style.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/variable.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/variable.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/scss/widgets.scss" afterPath="$PROJECT_DIR$/auth/admin_home/lite/scss/widgets.scss" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/send_db.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/send_db.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/upload.php" afterPath="$PROJECT_DIR$/auth/admin_home/lite/upload.php" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/uploads/1.png" afterPath="$PROJECT_DIR$/auth/admin_home/lite/uploads/1.png" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/uploads/Logo PNG.png" afterPath="$PROJECT_DIR$/auth/admin_home/lite/uploads/Logo PNG.png" />
+      <change beforePath="$PROJECT_DIR$/auth/admin_home/lite/uploads/fbwater.png" afterPath="$PROJECT_DIR$/auth/admin_home/lite/uploads/fbwater.png" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap-theme.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/auth/assets/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/material-kit.css" afterPath="$PROJECT_DIR$/auth/assets/css/material-kit.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/css/smt-bootstrap.css" afterPath="$PROJECT_DIR$/auth/assets/css/smt-bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/auth/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/img/logo_white.png" afterPath="$PROJECT_DIR$/auth/assets/img/logo_white.png" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/img/panel-bg.png" afterPath="$PROJECT_DIR$/auth/assets/img/panel-bg.png" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/jquery-1.11.3-jquery.min.js" afterPath="$PROJECT_DIR$/auth/assets/jquery-1.11.3-jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/auth/assets/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/auth/assets/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/jquery-1.11.3-jquery.min.js" afterPath="$PROJECT_DIR$/auth/assets/js/jquery-1.11.3-jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/material-kit.js" afterPath="$PROJECT_DIR$/auth/assets/js/material-kit.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/material.min.js" afterPath="$PROJECT_DIR$/auth/assets/js/material.min.js" />
+      <change beforePath="$PROJECT_DIR$/auth/assets/js/npm.js" afterPath="$PROJECT_DIR$/auth/assets/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/auth/dbconnect.php" afterPath="$PROJECT_DIR$/auth/dbconnect.php" />
+      <change beforePath="$PROJECT_DIR$/auth/favicon.ico" afterPath="$PROJECT_DIR$/auth/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/auth/login.php" afterPath="$PROJECT_DIR$/auth/login.php" />
+      <change beforePath="$PROJECT_DIR$/auth/logout.php" afterPath="$PROJECT_DIR$/auth/logout.php" />
+      <change beforePath="$PROJECT_DIR$/auth/style.css" afterPath="$PROJECT_DIR$/auth/style.css" />
+      <change beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
+      <change beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/custom-min.css" afterPath="$PROJECT_DIR$/css/custom-min.css" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change beforePath="$PROJECT_DIR$/css/elegant-icons.min.css" afterPath="$PROJECT_DIR$/css/elegant-icons.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/flexslider.min.css" afterPath="$PROJECT_DIR$/css/flexslider.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-cardo.css" afterPath="$PROJECT_DIR$/css/font-cardo.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-helvetica.css" afterPath="$PROJECT_DIR$/css/font-helvetica.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-lato.css" afterPath="$PROJECT_DIR$/css/font-lato.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-libre.css" afterPath="$PROJECT_DIR$/css/font-libre.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-opensans.css" afterPath="$PROJECT_DIR$/css/font-opensans.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-roboto.css" afterPath="$PROJECT_DIR$/css/font-roboto.css" />
+      <change beforePath="$PROJECT_DIR$/css/font-titillium.css" afterPath="$PROJECT_DIR$/css/font-titillium.css" />
+      <change beforePath="$PROJECT_DIR$/css/ie9.css" afterPath="$PROJECT_DIR$/css/ie9.css" />
+      <change beforePath="$PROJECT_DIR$/css/less/alerts.less" afterPath="$PROJECT_DIR$/css/less/alerts.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/aquatica.less" afterPath="$PROJECT_DIR$/css/less/aquatica.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/aspirin.less" afterPath="$PROJECT_DIR$/css/less/aspirin.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/badges.less" afterPath="$PROJECT_DIR$/css/less/badges.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/blues.less" afterPath="$PROJECT_DIR$/css/less/blues.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/bootstrap.less" afterPath="$PROJECT_DIR$/css/less/bootstrap.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/css/less/breadcrumbs.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/buddha.less" afterPath="$PROJECT_DIR$/css/less/buddha.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/button-groups.less" afterPath="$PROJECT_DIR$/css/less/button-groups.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/buttons.less" afterPath="$PROJECT_DIR$/css/less/buttons.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/campfire.less" afterPath="$PROJECT_DIR$/css/less/campfire.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/carousel.less" afterPath="$PROJECT_DIR$/css/less/carousel.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/close.less" afterPath="$PROJECT_DIR$/css/less/close.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/cobalt.less" afterPath="$PROJECT_DIR$/css/less/cobalt.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/code.less" afterPath="$PROJECT_DIR$/css/less/code.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/component-animations.less" afterPath="$PROJECT_DIR$/css/less/component-animations.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/dropdowns.less" afterPath="$PROJECT_DIR$/css/less/dropdowns.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/dusk.less" afterPath="$PROJECT_DIR$/css/less/dusk.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/eco.less" afterPath="$PROJECT_DIR$/css/less/eco.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/equinox.less" afterPath="$PROJECT_DIR$/css/less/equinox.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/forms.less" afterPath="$PROJECT_DIR$/css/less/forms.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/glyphicons.less" afterPath="$PROJECT_DIR$/css/less/glyphicons.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/grid.less" afterPath="$PROJECT_DIR$/css/less/grid.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/input-groups.less" afterPath="$PROJECT_DIR$/css/less/input-groups.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/jumbotron.less" afterPath="$PROJECT_DIR$/css/less/jumbotron.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/labels.less" afterPath="$PROJECT_DIR$/css/less/labels.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/list-group.less" afterPath="$PROJECT_DIR$/css/less/list-group.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/matte.less" afterPath="$PROJECT_DIR$/css/less/matte.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/media.less" afterPath="$PROJECT_DIR$/css/less/media.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/mixins.less" afterPath="$PROJECT_DIR$/css/less/mixins.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/modals.less" afterPath="$PROJECT_DIR$/css/less/modals.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/mustang.less" afterPath="$PROJECT_DIR$/css/less/mustang.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/navbar.less" afterPath="$PROJECT_DIR$/css/less/navbar.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/navs.less" afterPath="$PROJECT_DIR$/css/less/navs.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/normalize.less" afterPath="$PROJECT_DIR$/css/less/normalize.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/pager.less" afterPath="$PROJECT_DIR$/css/less/pager.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/pagination.less" afterPath="$PROJECT_DIR$/css/less/pagination.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/panels.less" afterPath="$PROJECT_DIR$/css/less/panels.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/popovers.less" afterPath="$PROJECT_DIR$/css/less/popovers.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/print.less" afterPath="$PROJECT_DIR$/css/less/print.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/progress-bars.less" afterPath="$PROJECT_DIR$/css/less/progress-bars.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/css/less/responsive-utilities.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/rocklobster.less" afterPath="$PROJECT_DIR$/css/less/rocklobster.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/saquandosa.less" afterPath="$PROJECT_DIR$/css/less/saquandosa.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/scaffolding.less" afterPath="$PROJECT_DIR$/css/less/scaffolding.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/sunset.less" afterPath="$PROJECT_DIR$/css/less/sunset.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/tables.less" afterPath="$PROJECT_DIR$/css/less/tables.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/theme.less" afterPath="$PROJECT_DIR$/css/less/theme.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/thumbnails.less" afterPath="$PROJECT_DIR$/css/less/thumbnails.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/tooltip.less" afterPath="$PROJECT_DIR$/css/less/tooltip.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/tronic.less" afterPath="$PROJECT_DIR$/css/less/tronic.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/type.less" afterPath="$PROJECT_DIR$/css/less/type.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/utilities.less" afterPath="$PROJECT_DIR$/css/less/utilities.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/variables.less" afterPath="$PROJECT_DIR$/css/less/variables.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/wells.less" afterPath="$PROJECT_DIR$/css/less/wells.less" />
+      <change beforePath="$PROJECT_DIR$/css/less/zest.less" afterPath="$PROJECT_DIR$/css/less/zest.less" />
+      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" afterPath="$PROJECT_DIR$/css/lightbox.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/line-icons.min.css" afterPath="$PROJECT_DIR$/css/line-icons.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-aquatica-min.css" afterPath="$PROJECT_DIR$/css/theme-aquatica-min.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-aquatica.css" afterPath="$PROJECT_DIR$/css/theme-aquatica.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-aspirin.css" afterPath="$PROJECT_DIR$/css/theme-aspirin.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-blues.css" afterPath="$PROJECT_DIR$/css/theme-blues.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-buddha.css" afterPath="$PROJECT_DIR$/css/theme-buddha.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-campfire.css" afterPath="$PROJECT_DIR$/css/theme-campfire.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-cobalt.css" afterPath="$PROJECT_DIR$/css/theme-cobalt.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-dusk.css" afterPath="$PROJECT_DIR$/css/theme-dusk.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-eco.css" afterPath="$PROJECT_DIR$/css/theme-eco.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-matte.css" afterPath="$PROJECT_DIR$/css/theme-matte.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-min.css" afterPath="$PROJECT_DIR$/css/theme-min.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-mustang.css" afterPath="$PROJECT_DIR$/css/theme-mustang.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-rocklobster.css" afterPath="$PROJECT_DIR$/css/theme-rocklobster.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-sunset.css" afterPath="$PROJECT_DIR$/css/theme-sunset.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-tronic.css" afterPath="$PROJECT_DIR$/css/theme-tronic.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme-zest.css" afterPath="$PROJECT_DIR$/css/theme-zest.css" />
+      <change beforePath="$PROJECT_DIR$/css/theme.css" afterPath="$PROJECT_DIR$/css/theme.css" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.eot" afterPath="$PROJECT_DIR$/fonts/ElegantIcons.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.svg" afterPath="$PROJECT_DIR$/fonts/ElegantIcons.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" afterPath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.woff" afterPath="$PROJECT_DIR$/fonts/ElegantIcons.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/et-line.eot" afterPath="$PROJECT_DIR$/fonts/et-line.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/et-line.svg" afterPath="$PROJECT_DIR$/fonts/et-line.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/et-line.ttf" afterPath="$PROJECT_DIR$/fonts/et-line.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/et-line.woff" afterPath="$PROJECT_DIR$/fonts/et-line.woff" />
+      <change beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change beforePath="$PROJECT_DIR$/helpers/sql_functions.php" afterPath="$PROJECT_DIR$/helpers/sql_functions.php" />
+      <change beforePath="$PROJECT_DIR$/img/app-1.png" afterPath="$PROJECT_DIR$/img/app-1.png" />
+      <change beforePath="$PROJECT_DIR$/img/app-store.png" afterPath="$PROJECT_DIR$/img/app-store.png" />
+      <change beforePath="$PROJECT_DIR$/img/app2.png" afterPath="$PROJECT_DIR$/img/app2.png" />
+      <change beforePath="$PROJECT_DIR$/img/blog-masonry-1.jpg" afterPath="$PROJECT_DIR$/img/blog-masonry-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-masonry-2.jpg" afterPath="$PROJECT_DIR$/img/blog-masonry-2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-masonry-3.jpg" afterPath="$PROJECT_DIR$/img/blog-masonry-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-masonry-4.jpg" afterPath="$PROJECT_DIR$/img/blog-masonry-4.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-thumb-1.jpg" afterPath="$PROJECT_DIR$/img/blog-thumb-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-thumb-2.jpg" afterPath="$PROJECT_DIR$/img/blog-thumb-2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blog-thumb-3.jpg" afterPath="$PROJECT_DIR$/img/blog-thumb-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/blur2.jpg" afterPath="$PROJECT_DIR$/img/blur2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/bottom1.jpg" afterPath="$PROJECT_DIR$/img/bottom1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/box1.jpg" afterPath="$PROJECT_DIR$/img/box1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/box2.jpg" afterPath="$PROJECT_DIR$/img/box2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/client1.png" afterPath="$PROJECT_DIR$/img/client1.png" />
+      <change beforePath="$PROJECT_DIR$/img/client2.png" afterPath="$PROJECT_DIR$/img/client2.png" />
+      <change beforePath="$PROJECT_DIR$/img/client3.png" afterPath="$PROJECT_DIR$/img/client3.png" />
+      <change beforePath="$PROJECT_DIR$/img/client4.png" afterPath="$PROJECT_DIR$/img/client4.png" />
+      <change beforePath="$PROJECT_DIR$/img/client5.png" afterPath="$PROJECT_DIR$/img/client5.png" />
+      <change beforePath="$PROJECT_DIR$/img/client6.png" afterPath="$PROJECT_DIR$/img/client6.png" />
+      <change beforePath="$PROJECT_DIR$/img/client7.png" afterPath="$PROJECT_DIR$/img/client7.png" />
+      <change beforePath="$PROJECT_DIR$/img/client8.png" afterPath="$PROJECT_DIR$/img/client8.png" />
+      <change beforePath="$PROJECT_DIR$/img/denmark.png" afterPath="$PROJECT_DIR$/img/denmark.png" />
+      <change beforePath="$PROJECT_DIR$/img/devices.png" afterPath="$PROJECT_DIR$/img/devices.png" />
+      <change beforePath="$PROJECT_DIR$/img/english.png" afterPath="$PROJECT_DIR$/img/english.png" />
+      <change beforePath="$PROJECT_DIR$/img/google-play.png" afterPath="$PROJECT_DIR$/img/google-play.png" />
+      <change beforePath="$PROJECT_DIR$/img/grey-bg.jpg" afterPath="$PROJECT_DIR$/img/grey-bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/header1.jpg" afterPath="$PROJECT_DIR$/img/header1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/header2.jpg" afterPath="$PROJECT_DIR$/img/header2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero1.jpg" afterPath="$PROJECT_DIR$/img/hero1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero10.jpg" afterPath="$PROJECT_DIR$/img/hero10.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero11.jpg" afterPath="$PROJECT_DIR$/img/hero11.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero12.jpg" afterPath="$PROJECT_DIR$/img/hero12.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero13.jpg" afterPath="$PROJECT_DIR$/img/hero13.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero14.jpg" afterPath="$PROJECT_DIR$/img/hero14.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero15.jpg" afterPath="$PROJECT_DIR$/img/hero15.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero16.jpg" afterPath="$PROJECT_DIR$/img/hero16.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero17.jpg" afterPath="$PROJECT_DIR$/img/hero17.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero18.jpg" afterPath="$PROJECT_DIR$/img/hero18.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero19.jpg" afterPath="$PROJECT_DIR$/img/hero19.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero2.jpg" afterPath="$PROJECT_DIR$/img/hero2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero20.jpg" afterPath="$PROJECT_DIR$/img/hero20.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero21.jpg" afterPath="$PROJECT_DIR$/img/hero21.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero22.jpg" afterPath="$PROJECT_DIR$/img/hero22.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero23.jpg" afterPath="$PROJECT_DIR$/img/hero23.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero3.jpg" afterPath="$PROJECT_DIR$/img/hero3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero4.jpg" afterPath="$PROJECT_DIR$/img/hero4.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero5.jpg" afterPath="$PROJECT_DIR$/img/hero5.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero6.jpg" afterPath="$PROJECT_DIR$/img/hero6.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero7.jpg" afterPath="$PROJECT_DIR$/img/hero7.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero8.jpg" afterPath="$PROJECT_DIR$/img/hero8.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/hero9.jpg" afterPath="$PROJECT_DIR$/img/hero9.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/img/about-us.jpg" afterPath="$PROJECT_DIR$/img/img/about-us.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/img/banner.jpg" afterPath="$PROJECT_DIR$/img/img/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/img/everyday_banking.png" afterPath="$PROJECT_DIR$/img/img/everyday_banking.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/everyday_banking_small.png" afterPath="$PROJECT_DIR$/img/img/everyday_banking_small.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/favicon.ico" afterPath="$PROJECT_DIR$/img/img/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/img/img/fixed_deposits.png" afterPath="$PROJECT_DIR$/img/img/fixed_deposits.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/fixed_deposits_small.png" afterPath="$PROJECT_DIR$/img/img/fixed_deposits_small.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/gold_loan.jpg" afterPath="$PROJECT_DIR$/img/img/gold_loan.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/img/gold_loan.png" afterPath="$PROJECT_DIR$/img/img/gold_loan.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/logo.png" afterPath="$PROJECT_DIR$/img/img/logo.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/logo_full.png" afterPath="$PROJECT_DIR$/img/img/logo_full.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/logo_full_mod.png" afterPath="$PROJECT_DIR$/img/img/logo_full_mod.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/logo_new.png" afterPath="$PROJECT_DIR$/img/img/logo_new.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/recurring_deposits.png" afterPath="$PROJECT_DIR$/img/img/recurring_deposits.png" />
+      <change beforePath="$PROJECT_DIR$/img/img/recurring_deposits_small.png" afterPath="$PROJECT_DIR$/img/img/recurring_deposits_small.png" />
+      <change beforePath="$PROJECT_DIR$/img/ipad.png" afterPath="$PROJECT_DIR$/img/ipad.png" />
+      <change beforePath="$PROJECT_DIR$/img/ipad2.png" afterPath="$PROJECT_DIR$/img/ipad2.png" />
+      <change beforePath="$PROJECT_DIR$/img/layer1.jpg" afterPath="$PROJECT_DIR$/img/layer1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/layer2.png" afterPath="$PROJECT_DIR$/img/layer2.png" />
+      <change beforePath="$PROJECT_DIR$/img/layer3.png" afterPath="$PROJECT_DIR$/img/layer3.png" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/close.png" afterPath="$PROJECT_DIR$/img/lightbox/close.png" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/loading.gif" afterPath="$PROJECT_DIR$/img/lightbox/loading.gif" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/next.png" afterPath="$PROJECT_DIR$/img/lightbox/next.png" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/prev.png" afterPath="$PROJECT_DIR$/img/lightbox/prev.png" />
+      <change beforePath="$PROJECT_DIR$/img/logo-dark.png" afterPath="$PROJECT_DIR$/img/logo-dark.png" />
+      <change beforePath="$PROJECT_DIR$/img/logo-light.png" afterPath="$PROJECT_DIR$/img/logo-light.png" />
+      <change beforePath="$PROJECT_DIR$/img/phone-blank.png" afterPath="$PROJECT_DIR$/img/phone-blank.png" />
+      <change beforePath="$PROJECT_DIR$/img/project1.jpg" afterPath="$PROJECT_DIR$/img/project1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/project2.jpg" afterPath="$PROJECT_DIR$/img/project2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/project3.jpg" afterPath="$PROJECT_DIR$/img/project3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/project4.jpg" afterPath="$PROJECT_DIR$/img/project4.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/project5.jpg" afterPath="$PROJECT_DIR$/img/project5.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/project6.jpg" afterPath="$PROJECT_DIR$/img/project6.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/side1.jpg" afterPath="$PROJECT_DIR$/img/side1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/side2.jpg" afterPath="$PROJECT_DIR$/img/side2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/side3.jpg" afterPath="$PROJECT_DIR$/img/side3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/slider1.jpg" afterPath="$PROJECT_DIR$/img/slider1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/slider2.jpg" afterPath="$PROJECT_DIR$/img/slider2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/slider3.jpg" afterPath="$PROJECT_DIR$/img/slider3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/team-large-1.jpg" afterPath="$PROJECT_DIR$/img/team-large-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/team-large-2.jpg" afterPath="$PROJECT_DIR$/img/team-large-2.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/team-large-3.jpg" afterPath="$PROJECT_DIR$/img/team-large-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/team-large-4.jpg" afterPath="$PROJECT_DIR$/img/team-large-4.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-1.png" afterPath="$PROJECT_DIR$/img/team-small-1.png" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-2.png" afterPath="$PROJECT_DIR$/img/team-small-2.png" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-3.png" afterPath="$PROJECT_DIR$/img/team-small-3.png" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-4.png" afterPath="$PROJECT_DIR$/img/team-small-4.png" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-5.png" afterPath="$PROJECT_DIR$/img/team-small-5.png" />
+      <change beforePath="$PROJECT_DIR$/img/team-small-6.png" afterPath="$PROJECT_DIR$/img/team-small-6.png" />
+      <change beforePath="$PROJECT_DIR$/img/wood.jpg" afterPath="$PROJECT_DIR$/img/wood.jpg" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/affix.js" afterPath="$PROJECT_DIR$/js/bootstrap/affix.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/alert.js" afterPath="$PROJECT_DIR$/js/bootstrap/alert.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/button.js" afterPath="$PROJECT_DIR$/js/bootstrap/button.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/carousel.js" afterPath="$PROJECT_DIR$/js/bootstrap/carousel.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/collapse.js" afterPath="$PROJECT_DIR$/js/bootstrap/collapse.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/dropdown.js" afterPath="$PROJECT_DIR$/js/bootstrap/dropdown.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/modal.js" afterPath="$PROJECT_DIR$/js/bootstrap/modal.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/popover.js" afterPath="$PROJECT_DIR$/js/bootstrap/popover.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/scrollspy.js" afterPath="$PROJECT_DIR$/js/bootstrap/scrollspy.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/tab.js" afterPath="$PROJECT_DIR$/js/bootstrap/tab.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/tooltip.js" afterPath="$PROJECT_DIR$/js/bootstrap/tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/transition.js" afterPath="$PROJECT_DIR$/js/bootstrap/transition.js" />
+      <change beforePath="$PROJECT_DIR$/js/isotope.min.js" afterPath="$PROJECT_DIR$/js/isotope.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.countdown.min.js" afterPath="$PROJECT_DIR$/js/jquery.countdown.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.plugin.min.js" afterPath="$PROJECT_DIR$/js/jquery.plugin.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/lightbox.min.js" afterPath="$PROJECT_DIR$/js/lightbox.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr-2.6.2-respond-1.1.0.min.js" afterPath="$PROJECT_DIR$/js/modernizr-2.6.2-respond-1.1.0.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/js/scrollReveal.js" afterPath="$PROJECT_DIR$/js/scrollReveal.js" />
+      <change beforePath="$PROJECT_DIR$/js/scrollReveal.min.js" afterPath="$PROJECT_DIR$/js/scrollReveal.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/skrollr.min.js" afterPath="$PROJECT_DIR$/js/skrollr.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.js" />
+      <change beforePath="$PROJECT_DIR$/js/smooth-scroll.min.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/spectragram.js" afterPath="$PROJECT_DIR$/js/spectragram.js" />
+      <change beforePath="$PROJECT_DIR$/js/spectragram.min.js" afterPath="$PROJECT_DIR$/js/spectragram.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/twitterFetcher_v10_min.js" afterPath="$PROJECT_DIR$/js/twitterFetcher_v10_min.js" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Attachment.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Attachment.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/ArrayByteStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/ArrayByteStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/FileByteStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/FileByteStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/GenericFixedWidthReader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/GenericFixedWidthReader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/UsAsciiReader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/UsAsciiReader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/Utf8Reader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/Utf8Reader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ConfigurableSpool.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ConfigurableSpool.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyContainer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyContainer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyException.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyException.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/EmbeddedFile.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/EmbeddedFile.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Base64Encoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Base64Encoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/QpEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/QpEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoding.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoding.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandEvent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandEvent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/Event.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/Event.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventDispatcher.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventDispatcher.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventObject.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventObject.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseEvent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseEvent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendEvent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendEvent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SimpleEventDispatcher.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SimpleEventDispatcher.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeEvent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeEvent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionEvent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionEvent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionListener.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionListener.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/FailoverTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FailoverTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/FileSpool.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FileSpool.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/FileStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FileStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Filterable.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Filterable.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Image.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Image.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/InputByteStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/InputByteStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/IoException.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/IoException.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/ArrayKeyCache.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/ArrayKeyCache.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/NullKeyCache.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/NullKeyCache.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/LoadBalancedTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/LoadBalancedTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/MailTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MailTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/ArrayRecipientIterator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/ArrayRecipientIterator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/RecipientIterator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/RecipientIterator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/MemorySpool.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MemorySpool.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Message.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Message.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Attachment.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Attachment.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/CharsetObserver.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/CharsetObserver.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoderProxy.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoderProxy.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/RawContentEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/RawContentEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EmbeddedFile.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EmbeddedFile.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EncodingObserver.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EncodingObserver.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Grammar.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Grammar.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Header.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Header.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderSet.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderSet.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/AbstractHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/AbstractHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/DateHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/DateHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/IdentificationHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/IdentificationHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/MailboxHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/MailboxHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/OpenDKIMHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/OpenDKIMHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/PathHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/PathHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/UnstructuredHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/UnstructuredHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Message.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Message.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimeEntity.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimeEntity.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimePart.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimePart.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ParameterizedHeader.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ParameterizedHeader.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderSet.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderSet.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMessage.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMessage.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMimeEntity.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMimeEntity.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/MimePart.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MimePart.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/NullTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/NullTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/OutputByteStream.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/OutputByteStream.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/AntiFloodPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/AntiFloodPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/BandwidthMonitorPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/BandwidthMonitorPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Decorator/Replacements.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Decorator/Replacements.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/DecoratorPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/DecoratorPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ImpersonatePlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ImpersonatePlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Logger.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Logger.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/LoggerPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/LoggerPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/MessageLogger.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/MessageLogger.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Connection.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Connection.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Exception.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Exception.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/PopBeforeSmtpPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/PopBeforeSmtpPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/RedirectingPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/RedirectingPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ReporterPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ReporterPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HitReporter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HitReporter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Sleeper.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Sleeper.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ThrottlerPlugin.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ThrottlerPlugin.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Timer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Timer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Preferences.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Preferences.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/ReplacementFilterFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ReplacementFilterFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/RfcComplianceException.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/RfcComplianceException.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/SendmailTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SendmailTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/SignedMessage.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SignedMessage.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/BodySigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/BodySigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DKIMSigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DKIMSigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DomainKeySigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DomainKeySigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/HeaderSigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/HeaderSigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/OpenDKIMSigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/OpenDKIMSigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/SMimeSigner.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/SMimeSigner.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/SmtpTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SmtpTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Spool.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Spool.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/SpoolTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SpoolTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/SwiftException.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SwiftException.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/AbstractSmtpTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/AbstractSmtpTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/NTLMAuthenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/NTLMAuthenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Authenticator.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Authenticator.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpHandler.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpHandler.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/FailoverTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/FailoverTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/IoBuffer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/IoBuffer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/LoadBalancedTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/LoadBalancedTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailInvoker.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailInvoker.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/NullTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/NullTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SendmailTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SendmailTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SimpleMailInvoker.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SimpleMailInvoker.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SmtpAgent.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SmtpAgent.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SpoolTransport.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SpoolTransport.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/StreamBuffer.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/StreamBuffer.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/TransportException.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/TransportException.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/classes/Swift/Validate.php" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Validate.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/dependency_maps/cache_deps.php" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/cache_deps.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/dependency_maps/message_deps.php" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/message_deps.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/dependency_maps/mime_deps.php" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/mime_deps.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/dependency_maps/transport_deps.php" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/transport_deps.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/mime_types.php" afterPath="$PROJECT_DIR$/mail/lib/mime_types.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/preferences.php" afterPath="$PROJECT_DIR$/mail/lib/preferences.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/swift_init.php" afterPath="$PROJECT_DIR$/mail/lib/swift_init.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/swift_required.php" afterPath="$PROJECT_DIR$/mail/lib/swift_required.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/swift_required_pear.php" afterPath="$PROJECT_DIR$/mail/lib/swift_required_pear.php" />
+      <change beforePath="$PROJECT_DIR$/mail/lib/swiftmailer_generate_mimes_config.php" afterPath="$PROJECT_DIR$/mail/lib/swiftmailer_generate_mimes_config.php" />
+      <change beforePath="$PROJECT_DIR$/mail/mail.php" afterPath="$PROJECT_DIR$/mail/mail.php" />
+      <change beforePath="$PROJECT_DIR$/scheme_header.php" afterPath="$PROJECT_DIR$/scheme_header.php" />
+      <change beforePath="$PROJECT_DIR$/schemes/recurring_deposit_scheme.php" afterPath="$PROJECT_DIR$/schemes/recurring_deposit_scheme.php" />
+      <change beforePath="$PROJECT_DIR$/templates/footer.php" afterPath="$PROJECT_DIR$/templates/footer.php" />
+      <change beforePath="$PROJECT_DIR$/templates/header.php" afterPath="$PROJECT_DIR$/templates/header.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +576,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -36,7 +590,7 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="980">
               <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
@@ -49,11 +603,11 @@
             <state relative-caret-position="168">
               <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
               <folding>
-                <marker date="1518851079924" expanded="true" signature="382:414" ph="UPDATE rd... " />
-                <marker date="1518851079924" expanded="true" signature="382:416" ph="UPDATE rd... " />
-                <marker date="1518851079924" expanded="true" signature="382:450" ph="UPDATE rd... " />
-                <marker date="1518851079924" expanded="true" signature="382:473" ph="UPDATE rd... " />
-                <marker date="1518851079924" expanded="true" signature="608:624" ph="SELECT * FRO... rd" />
+                <marker date="1520706820000" expanded="true" signature="382:414" ph="UPDATE rd... " />
+                <marker date="1520706820000" expanded="true" signature="382:416" ph="UPDATE rd... " />
+                <marker date="1520706820000" expanded="true" signature="382:450" ph="UPDATE rd... " />
+                <marker date="1520706820000" expanded="true" signature="382:473" ph="UPDATE rd... " />
+                <marker date="1520706820000" expanded="true" signature="608:624" ph="SELECT * FRO... rd" />
               </folding>
             </state>
           </provider>
@@ -62,12 +616,12 @@
       <file leaf-file-name="sql_functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/sql_functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
+            <state relative-caret-position="588">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <marker date="1518852065987" expanded="true" signature="148:164" ph="SELECT * FRO... rd" />
-                <marker date="1518852065987" expanded="true" signature="312:519" ph="..." />
-                <marker date="1518852065987" expanded="true" signature="312:597" ph="..." />
+                <marker date="1520706820000" expanded="true" signature="148:164" ph="SELECT * FRO... rd" />
+                <marker date="1520706820000" expanded="true" signature="312:519" ph="..." />
+                <marker date="1520706820000" expanded="true" signature="312:597" ph="..." />
               </folding>
             </state>
           </provider>
@@ -76,7 +630,7 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/admin_home/lite/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="2828">
               <caret line="106" column="7" lean-forward="false" selection-start-line="98" selection-start-column="3" selection-end-line="106" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -86,6 +640,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,6 +674,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -191,34 +749,34 @@
       <option name="presentableId" value="Default" />
       <updated>1518795964562</updated>
       <workItem from="1518795966594" duration="10072000" />
+      <workItem from="1521520788344" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10072000" />
+    <option name="totallyTimeSpent" value="10178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17525035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -237,23 +795,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recurring_deposit_scheme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recurring_deposit_scheme.php" />
     <entry file="file://$PROJECT_DIR$/auth/dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -261,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -269,7 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -277,9 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          <folding>
-            <element signature="e#579#585#0#HTML" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -299,13 +843,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth/admin_home/lite/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="106" column="7" lean-forward="false" selection-start-line="98" selection-start-column="3" selection-end-line="106" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="364">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -314,40 +864,34 @@
         <state relative-caret-position="168">
           <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
           <folding>
-            <marker date="1518851079924" expanded="true" signature="382:414" ph="UPDATE rd... " />
-            <marker date="1518851079924" expanded="true" signature="382:416" ph="UPDATE rd... " />
-            <marker date="1518851079924" expanded="true" signature="382:450" ph="UPDATE rd... " />
-            <marker date="1518851079924" expanded="true" signature="382:473" ph="UPDATE rd... " />
-            <marker date="1518851079924" expanded="true" signature="608:624" ph="SELECT * FRO... rd" />
+            <marker date="1520706820000" expanded="true" signature="382:414" ph="UPDATE rd... " />
+            <marker date="1520706820000" expanded="true" signature="382:416" ph="UPDATE rd... " />
+            <marker date="1520706820000" expanded="true" signature="382:450" ph="UPDATE rd... " />
+            <marker date="1520706820000" expanded="true" signature="382:473" ph="UPDATE rd... " />
+            <marker date="1520706820000" expanded="true" signature="608:624" ph="SELECT * FRO... rd" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helpers/sql_functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="588">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1518852065987" expanded="true" signature="148:164" ph="SELECT * FRO... rd" />
-            <marker date="1518852065987" expanded="true" signature="312:519" ph="..." />
-            <marker date="1518852065987" expanded="true" signature="312:597" ph="..." />
+            <marker date="1520706820000" expanded="true" signature="148:164" ph="SELECT * FRO... rd" />
+            <marker date="1520706820000" expanded="true" signature="312:519" ph="..." />
+            <marker date="1520706820000" expanded="true" signature="312:597" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/footer.php">
+    <entry file="file://$PROJECT_DIR$/auth/admin_home/lite/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="2828">
+          <caret line="106" column="7" lean-forward="false" selection-start-line="98" selection-start-column="3" selection-end-line="106" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

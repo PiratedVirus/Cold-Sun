@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,600,700");
+
+
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Lato';
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}

@@ -1,0 +1,18 @@
+.redText{
+  color: #F44336;
+}
+.orangeText{
+    color: #EF6C00; !important
+}
+.textCaps{
+    text-transform: uppercase;
+}
+.textBold{
+    font-weight: bold;
+}
+tr:nth-child(even) {
+    background: #EF6C00; !important
+    color: #FFF; !important
+} 
+tr:nth-child(odd) {background: #FFF} !important
+
